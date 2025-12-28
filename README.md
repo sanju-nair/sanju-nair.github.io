@@ -1,4 +1,4 @@
-### *Melbourne, VIC | [[LinkedIn](https://www.linkedin.com/in/sanju-b-nair/)] | [SupaNEWS App](https://play.google.com/store/apps/details?id=com.sanjunair.supanewsau)*
+### *Melbourne, VIC | [LinkedIn](https://www.linkedin.com/in/sanju-b-nair/) | [SupaNEWS App](https://play.google.com/store/apps/details?id=com.sanjunair.supanewsau)*
 
 ---
 
