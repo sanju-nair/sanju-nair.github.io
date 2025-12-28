@@ -1,3 +1,8 @@
+---
+title: Sanju Nair
+description: Technical Product Manager | SaaS, Cloud & Data Platforms
+---
+
 ### *Melbourne, VIC | [LinkedIn](https://www.linkedin.com/in/sanju-b-nair/) | [SupaNEWS App](https://play.google.com/store/apps/details?id=com.sanjunair.supanewsau)*
 
 ---
