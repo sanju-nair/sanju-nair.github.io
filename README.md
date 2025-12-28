@@ -1,11 +1,9 @@
-# 🚀 Portfolio: Sanju Nair
-**Technical Product Manager | SaaS, Cloud & Data Platforms**
-*Melbourne, VIC | [LinkedIn Profile URL] | [Link to SupaNEWS]*
+### *Melbourne, VIC | [[LinkedIn](https://www.linkedin.com/in/sanju-b-nair/)] | [SupaNEWS App](https://play.google.com/store/apps/details?id=com.sanjunair.supanewsau)*
 
 ---
 
 ## 1. About Me
-
+**The Pitch:**
 I am a Technical Product Manager with over 10 years of experience in B2B SaaS, Cloud Platforms, and Data Products. My background as a software engineer allows me to bridge the gap between complex technical architecture and strategic business goals.
 
 Most recently at **Oracle**, I managed the **Java Management Service (JMS)**, where I led product strategy for widely adopted enterprise tools and developer services. I specialize in **"Iterative Value Delivery"**—launching thin, end-to-end slices of value to validate product-market fit early and scale rapidly.
