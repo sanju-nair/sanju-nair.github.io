@@ -5,9 +5,9 @@ title: Modernizing Oracle Java Distribution
 
 [← Back to Portfolio](./)
 
-# 📌 Case Study: "Java Download Service" - Modernizing Oracle Java Distribution
+# 📌 Case Study: Java Download Service - Modernizing Oracle Java Distribution
 
-**Role:** Principal Product Manager @ Oracle  
+**Role:** Product Manager - Java Platform Group @ Oracle  
 **Competencies:** Strategy, Discovery, Systems Thinking, Technical Execution
 
 ---
