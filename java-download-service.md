@@ -49,24 +49,6 @@ I championed a strategy to decouple and repurpose the infrastructure identified 
 * **Speed:** By repurposing the Fleet Management infrastructure, we cut time-to-market in half.
 * **Consistency:** It ensured the new "Download Service" and the existing "Fleet Management Service" used the exact same source of truth for binaries.
 
-## The Solution: Systems Thinking
-The goal was to launch **Java Download** as the second major service under the JMS umbrella.
-
-### The Leverage Point
-I avoided the trap of building a standalone tool from scratch. By analyzing our existing architecture, I identified a massive reuse opportunity: the **Fleet Management Service** (our initial JMS offering) already possessed an **"Install Java Runtime"** feature with a robust backend delivery engine.
-
-### Execution
-I championed a "Systems Thinking" approach to decouple and repurpose this infrastructure:
-1.  **Reuse:** We leveraged the existing backend from the Fleet Management Service, which handled the heavy lifting of artifact retrieval and verification.
-2.  **Innovate:** We built a lightweight **Token-Based License System** on top of it.
-    * Developers accept the license *once* via UI.
-    * They generate a long-lived token.
-    * They use that token in scripts (`wget`, `curl`) to bypass manual checks securely.
-
-**Why this won:**
-* **Speed:** By repurposing the Fleet Management infrastructure, we cut time-to-market in half.
-* **Consistency:** It ensured the new "Download Service" and the existing "Fleet Management Service" used the exact same source of truth for binaries.
-
 ## The Launch
 * **Internal Alignment:** Secured buy-in from Legal and Security to approve the token-based model.
 * **Go-To-Market:** Partnered with Developer Relations to publish "How-To" blogs and script examples.
