@@ -18,20 +18,20 @@ Most recently at **Oracle**, I led product strategy for the **Java Management Se
 
 ## Featured Case Studies
 
-### 📌 Project 1: The "Java Download Service"
-**Role:** Principal Product Manager @ Oracle
+### 📌 [The "Java Download Service"](./java-download-service.html)
+**Target:** Developers & DevOps | **Role:** Principal PM | **Impact:** 🚀 100k+ Downloads
+
 **The Challenge:**
-Oracle executives issued a directive to "target the developer persona" for the Java Management Service, which had historically focused only on system administrators. During discovery, I identified a massive friction point: developers could not automate secure Oracle JDK downloads in their CI/CD pipelines due to manual license acceptance requirements.
+Oracle wanted to "target developers," but our tools required manual license acceptance—breaking CI/CD pipelines and blocking automation.
 
 **The Solution (Systems Thinking):**
-* **Strategy:** I pivoted the product vision to focus on script-friendly automation rather than just a UI.
-* **Execution:** Leveraging "Systems Thinking," I championed the reuse of our existing "Artifact Delivery Platform" (used by admins) and worked with engineering to build a lightweight **token-based license acceptance system** on top of it. This allowed us to reuse 70% of existing infrastructure and launch in half the time.
-* **Launch:** Coordinated GTM with Developer Relations and presented at Oracle DevLive.
+I pivoted the product vision from a UI-based tool to a **script-first automation service**. By applying "Systems Thinking," I championed reusing 70% of our existing infrastructure to build a lightweight **token-based license system**—cutting time-to-market in half.
 
-**The Impact:**
-* 🚀 Scaled to **500,000+ secure downloads per month**.
-* ✅ **99% of downloads** were initiated via the script-friendly commands, validating the strategic bet on automation.
-* 📈 Became the standard entitlement model for future Oracle distribution workflows.
+**The Results:**
+* ✅ **100,000+** secure downloads
+* ✅ **99%** of traffic is script-driven, validating the automation bet.
+
+[👉 **Read the Full Case Study**](./java-download-service.html)
 
 ---
 
