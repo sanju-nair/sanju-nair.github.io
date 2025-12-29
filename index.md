@@ -3,15 +3,16 @@ layout: default
 ---
 
 ## About Me
-**The Pitch:**
-I am a Technical Product Manager with over 10 years of experience in B2B SaaS, Cloud Platforms, and Data Products. My background as a software engineer allows me to bridge the gap between complex technical architecture and strategic business goals.
+**Technical Product Manager | Engineer Turned Strategist**
 
-Most recently at **Oracle**, I managed the **Java Management Service (JMS)**, where I led product strategy for widely adopted enterprise tools and developer services. I specialize in **"Iterative Value Delivery"**—launching thin, end-to-end slices of value to validate product-market fit early and scale rapidly.
+I am a Technical Product Manager with over 10 years of experience bridging the gap between complex architecture and strategic business goals. My background as a software engineer allows me to "speak the language" of technical teams while driving commercial outcomes.
+
+Most recently at **Oracle**, I led product strategy for the **Java Management Service (JMS)**, scaling developer tools to **500,000+ monthly downloads**. I specialize in **"Iterative Value Delivery"**—avoiding big-bang releases in favor of launching thin, end-to-end slices of value to validate product-market fit early.
 
 **Core Competencies:**
-* **Strategy:** Product-Led Growth (PLG), Roadmap Strategy, B2B/B2C SaaS.
-* **Technical:** API Design, Cloud Infrastructure (OCI), Mobile Dev (Flutter/Supabase), AI/LLM Integration.
-* **Execution:** Agile/Scrum, RICE Prioritization, Rapid Prototyping, Telemetry Analytics.
+* **🚀 Strategy:** Product-Led Growth (PLG), Roadmap Strategy, B2B/B2C SaaS.
+* **🛠️ Technical:** API Design, Cloud Infrastructure (OCI), Mobile Dev (Flutter/Supabase), AI/LLM Integration.
+* **📊 Execution:** Agile/Scrum, RICE Prioritization, Rapid Prototyping, Telemetry Analytics.
 
 ---
 
