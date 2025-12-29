@@ -1,0 +1,15 @@
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<title>{% if page.title %}{{ page.title }} | {% endif %}{{ site.title }}</title>
+
+{%- if site.github && site.github.github_owner -%}
+<meta name="author" content="{{ site.github.owner_name | default: site.title }}">
+{%- endif -%}
+
+{% seo %}
+
+<!-- Theme CSS (compiled from assets/css/style.scss) -->
+<link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}" />
+<link rel="alternate" type="application/rss+xml" title="{{ site.title }}" href="{{ '/feed.xml' | relative_url }}" />
