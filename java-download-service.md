@@ -62,12 +62,17 @@ A technical feature is only useful if developers know it exists. I led a compreh
 * **Content Strategy:** Authored [blog posts](https://blogs.oracle.com/java/java-download-now-available-on-oci) explaining the "Why" and "How" of the new service, targeting the DevOps community.
 * **Event Showcase:** Personally presented the solution at **Oracle DevLive**, demonstrating capabilities to an audience of developers and solidifying the feature as the new standard for Java download automation.
 
-## The Impact
-The service successfully removed the friction between enterprise compliance and developer velocity.
+## The Impact & Evolution
+The service successfully addressed the friction between enterprise compliance and developer velocity.
 
 * 🚀 **Scale:** Reached **100,000+ secure downloads**.
 * ✅ **Validation:** **99%** of traffic is script-driven, proving that automation was the correct problem to solve.
-* 📈 **Legacy:** The token model became the standard entitlement pattern for future Oracle distribution workflows.
 
+### Continuous Improvement
+The launch was just the beginning. I established active feedback loops via Sales, Support, and direct developer conversations at events to identify further friction points. This led to the delivery of three critical enhancements:
+
+1.  **Public API for Releases:** Based on developer requests for better discovery, we built a [Public API](https://docs.oracle.com/en-us/iaas/jms/doc/public-api-oracle-java-releases.html) allowing tools to programmatically query available Java versions and checksums without scraping HTML.
+2.  **Download Reporting:** Addressed enterprise audit needs by launching [Reporting mechanisms](https://docs.oracle.com/en-us/iaas/jms/doc/reporting.html) to track download usage and compliance visibility.
+3.  **Token-less Downloads:** Further reduced friction by removing the token requirement entirely for non-restrictive Java versions (e.g., NFTC releases), simplifying access where strict entitlement wasn't required.
 ---
 [← Back to Home](./)
