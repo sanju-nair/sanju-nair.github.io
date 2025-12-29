@@ -1,0 +1,32 @@
+---
+---
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    {% include head.html %}
+  </head>
+
+  <body>
+    <div class="site-wrapper">
+
+      <!-- CUSTOM HEADER: will show /profile.png if site.logo is set -->
+      <header class="site-header custom-site-header" role="banner" style="display:flex;align-items:center;gap:1rem;padding:1.25rem 0;border-bottom:1px solid rgba(0,0,0,0.06);">
+        {% if site.logo %}
+          <img src="{{ site.logo | relative_url }}" alt="{{ site.title }}" class="site-logo" style="width:96px;height:96px;object-fit:cover;border-radius:50%;box-shadow:0 1px 6px rgba(0,0,0,0.08);" />
+        {% endif %}
+        <div class="site-identity">
+          <h1 class="site-title" style="margin:0;font-size:1.25rem;">{{ site.title }}</h1>
+          <p class="site-description" style="margin:0.25rem 0 0;color:#666;">{{ site.description }}</p>
+        </div>
+      </header>
+
+      <main class="main-content container" role="main" style="padding-top:1.25rem;">
+        {{ content }}
+      </main>
+
+      {% include footer.html %}
+    </div>
+
+    {% include scripts.html %}
+  </body>
+</html>
