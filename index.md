@@ -7,7 +7,7 @@ layout: default
 
 I am a Technical Product Manager with over 10 years of experience bridging the gap between complex architecture and strategic business goals. My background as a software engineer allows me to "speak the language" of technical teams while driving commercial outcomes.
 
-Most recently at **Oracle**, I led product strategy for the **Java Management Service (JMS)**, scaling developer tools to **500,000+ monthly downloads**. I specialize in **"Iterative Value Delivery"**—avoiding big-bang releases in favor of launching thin, end-to-end slices of value to validate product-market fit early.
+Most recently at **Oracle**, I led product strategy for the **Java Management Service (JMS)**, scaling the Fleet Management service to **manage 300,000+** compute instances while delivering a Download Service that secured **100,000+** automated downloads. I specialize in **'Iterative Value Delivery'**—avoiding big-bang releases in favor of launching thin, end-to-end slices to validate product-market fit early.
 
 **Core Competencies:**
 * **🚀 Strategy:** Product-Led Growth (PLG), Roadmap Strategy, B2B/B2C SaaS.
