@@ -11,14 +11,14 @@ Most recently at **Oracle**, I led product strategy for the **Java Management Se
 
 **Core Competencies:**
 * **🚀 Strategy:** Product-Led Growth (PLG), Roadmap Strategy, B2B/B2C SaaS.
-* **🛠️ Technical:** API Design, Cloud Infrastructure (OCI), Mobile Dev (Flutter/Supabase), AI/LLM Integration.
+* **🛠️ Technical:** API, Cloud (OCI), Mobile Dev (Flutter/Supabase), AI/LLM Integration.
 * **📊 Execution:** Agile/Scrum, RICE Prioritization, Rapid Prototyping, Telemetry Analytics.
 
 ---
 
 ## Featured Case Studies
 
-### 📌 [The "Java Download Service"](./java-download-service.html)
+### 📌 ["Java Download Service" - Modernizing Oracle Java Distribution](./java-download-service.html)
 **Target:** Developers & DevOps | **Role:** Principal PM | **Impact:** 🚀 100k+ Downloads
 
 **The Challenge:**
