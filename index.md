@@ -18,7 +18,7 @@ Most recently at **Oracle**, I led product strategy for the **Java Management Se
 
 ## Featured Case Studies
 
-### 📌 ["Java Download Service" - Modernizing Oracle Java Distribution](./java-download-service.html)
+### 📌 [Java Download Service - Modernizing Oracle Java Distribution](./java-download-service.html)
 **Target:** Developers & DevOps | **Role:** Principal PM | **Impact:** 🚀 100k+ Downloads
 
 **The Challenge:**
