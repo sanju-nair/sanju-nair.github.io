@@ -35,20 +35,21 @@ I differentiated the product by extending standard direct downloads with **scrip
 
 ---
 
-### 📌 Project 2: Reducing Time-to-Value by 80%
-**Role:** Principal Product Manager @ Oracle
+### 📌 [Optimizing Time-to-Value for Enterprise Fleets](./fleet-management-onboarding.html)
+**Target:** System Admins (Ops) | **Role:** Principal PM | **Impact:** 📉 -70% Support Tickets
+
 **The Challenge:**
-New users of the Java Management Service faced a difficult setup process that required manual provisioning of OCI resources. Data showed that **70% of support tickets** were tied to onboarding issues, and drop-off rates were high.
+The Java Management Service (JMS) manages massive estates (300k+ instances), but the initial setup was a major churn point. Enterprise admins struggled with complex agent configuration, leading to high failure rates and a flood of support tickets. We needed to reduce "Time-to-First-Value" to unlock adoption.
 
-**The Solution (Iterative Value Delivery):**
-* **Discovery:** I used heatmaps and session replays to identify exactly where users were abandoning the setup.
-* **Internal Dogfooding:** I partnered with internal Oracle engineering teams to "dogfood" the migration tools on massive internal fleets, uncovering performance bottlenecks before public release.
-* **The "Thin Slice":** Championed an MVP-first approach to release a **Self-Serve Onboarding Wizard** and a pre-packaged **Agent Installer** that automated the prerequisite steps.
+**The Solution:**
+I shifted the strategy from "Documentation-Reliant" to "Self-Serve Activation." I led the development of a **smart agent installer** with pre-packaged dependencies and built-in diagnostics, coupled with a redesigned **guided onboarding flow**. This proactively caught errors before they reached Support.
 
-**The Impact:**
-* ⏱️ Reduced customer setup time by **80%**.
-* 📉 Cut onboarding-related support tickets by **70%**.
-* 🔥 Increased first-time connections by **50%**, significantly accelerating user activation.
+**The Results:**
+* ✅ **80% reduction** in total setup time.
+* ✅ **50% increase** in successful first-time connections.
+* ✅ **70% drop** in installation-related support tickets.
+
+[👉 **Read the Full Case Study**](./fleet-management-onboarding.html)
 
 ---
 
