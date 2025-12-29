@@ -1,0 +1,9 @@
+<header class="site-header" style="display:flex;align-items:center;gap:1rem;padding:1rem 0;border-bottom:1px solid rgba(0,0,0,0.06);">
+  {% if site.logo %}
+  <img src="{{ site.logo | relative_url }}" alt="{{ site.title }}" style="width:96px;height:96px;object-fit:cover;border-radius:50%;box-shadow:0 1px 4px rgba(0,0,0,0.08);" />
+  {% endif %}
+  <div>
+    <h1 style="margin:0;font-size:1.25rem;">{{ site.title }}</h1>
+    <p style="margin:0.25rem 0 0;color:#666;">{{ site.description }}</p>
+  </div>
+</header>
