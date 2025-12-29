@@ -22,10 +22,10 @@ Most recently at **Oracle**, I led product strategy for the **Java Management Se
 **Target:** Developers & DevOps | **Role:** Principal PM | **Impact:** 🚀 100k+ Downloads
 
 **The Challenge:**
-Oracle wanted to "target developers," but our tools required manual license acceptance—breaking CI/CD pipelines and blocking automation.
+To accelerate adoption, I steered the product strategy to target **Developers**, recognizing they represented a far larger user base than our traditional System Administrator persona. I evaluated high-friction areas—including **Migration** and **Performance Analysis**—but identified **Secure Downloads** as the most critical and fastest-to-market opportunity. The key challenge was friction: Oracle's downloads required manual license acceptance, rendering them unusable for modern CI/CD automation.
 
 **The Solution (Systems Thinking):**
-I pivoted the product vision from a UI-based tool to a **script-first automation service**. By applying "Systems Thinking," I championed reusing 70% of our existing infrastructure to build a lightweight **token-based license system**—cutting time-to-market in half.
+I differentiated the product by prioritizing **script-friendly capabilities** over a standard UI. By applying "Systems Thinking," I championed reusing 70% of our existing admin infrastructure to build a lightweight **token-based license system**. This enabled secure, automated downloads for the first time while cutting time-to-market in half.
 
 **The Results:**
 * ✅ **100,000+** secure downloads
