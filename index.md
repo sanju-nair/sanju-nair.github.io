@@ -1,13 +1,8 @@
 ---
-title: Sanju Nair
-description: Technical Product Manager | SaaS, Cloud & Data Platforms
+layout: default
 ---
 
-### *Melbourne, VIC | [LinkedIn](https://www.linkedin.com/in/sanju-b-nair/) | [SupaNEWS App](https://play.google.com/store/apps/details?id=com.sanjunair.supanewsau)*
-
----
-
-## 1. About Me
+## About Me
 **The Pitch:**
 I am a Technical Product Manager with over 10 years of experience in B2B SaaS, Cloud Platforms, and Data Products. My background as a software engineer allows me to bridge the gap between complex technical architecture and strategic business goals.
 
@@ -20,7 +15,7 @@ Most recently at **Oracle**, I managed the **Java Management Service (JMS)**, wh
 
 ---
 
-## 2. Featured Case Studies
+## Featured Case Studies
 
 ### 📌 Project 1: The "Java Download Service"
 **Role:** Principal Product Manager @ Oracle
@@ -88,7 +83,7 @@ To maintain my technical edge and explore the mobile ecosystem, I architected an
 
 ---
 
-## 3. My Product Philosophy
+## My Product Philosophy
 My approach to product management is grounded in three pillars:
 
 1.  **Iterative Value Delivery:** I avoid "Big Bang" releases. Instead, I deliver "thin slices" of end-to-end value. This allows for rapid validation using telemetry and minimizes wasted engineering effort.
@@ -97,7 +92,7 @@ My approach to product management is grounded in three pillars:
 
 ---
 
-## 4. Technical Skills
+## Technical Skills
 * **Product Management:** Jira, Confluence, Figma, Tableau, Grafana.
 * **Engineering & Cloud:** OCI (Oracle Cloud), Java, SQL, REST APIs, Serverless Architecture.
 * **Mobile Development:** Flutter, Dart, Supabase, Google Play Console.
