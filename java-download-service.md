@@ -1,18 +1,18 @@
 ---
 layout: default
-title: Java Download Service Case Study
+title: Modernizing Oracle Java Distribution
 ---
 
 [← Back to Portfolio](./)
 
-# 📌 Case Study: The Java Download Service
+# 📌 Case Study: "Java Download Service" - Modernizing Oracle Java Distribution
 
 **Role:** Principal Product Manager @ Oracle  
 **Competencies:** Strategy, Discovery, Systems Thinking, Technical Execution
 
 ---
 
-## 1. The Challenge
+## The Challenge
 To accelerate adoption of the Java Management Service, I steered the product strategy to target **Developers**, recognizing they represented a far larger and more active user base than our traditional System Administrator persona.
 
 ### The Selection Process
@@ -23,7 +23,7 @@ I evaluated several high-friction areas to determine where we could add the most
 
 I identified **Secure Oracle Java Downloads** as the most critical and fastest-to-market opportunity. However, a major blocker existed: Oracle’s downloads required manual "click-to-accept" license checks, which rendered them unusable for modern CI/CD automation pipelines.
 
-## 2. The Solution: Systems Thinking
+## The Solution: Systems Thinking
 The goal was not to replace standard downloads, but to **extend standard direct downloads with script-friendly automation**.
 
 ### Execution & Architecture
@@ -38,12 +38,12 @@ I applied "Systems Thinking" to avoid building a new delivery engine from scratc
 * **Speed:** By leveraging existing infrastructure rather than building new, we cut time-to-market in half.
 * **Security:** It maintained strict compliance standards while removing the friction for end-users.
 
-## 3. The Launch
+## The Launch
 * **Internal Alignment:** Secured buy-in from Legal and Security to approve the token-based model.
 * **Go-To-Market:** Partnered with Developer Relations to publish "How-To" blogs and script examples.
 * **Visibility:** Presented the solution at **Oracle DevLive**, positioning it as the new standard for Java automation.
 
-## 4. The Impact
+## The Impact
 The service successfully removed the friction between enterprise compliance and developer velocity.
 
 * 🚀 **Scale:** Reached **100,000+ secure downloads**.
