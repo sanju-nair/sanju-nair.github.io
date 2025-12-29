@@ -1,0 +1,6 @@
+---
+---
+@import "{{ site.theme }}";
+
+/* small helper in case default layout needs spacing tweaks for our header */
+.custom-site-header { padding-left: 0.5rem; padding-right: 0.5rem; }
