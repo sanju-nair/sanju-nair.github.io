@@ -13,7 +13,7 @@ title: Optimizing Time-to-Value for Enterprise Fleets
 ---
 
 ## The Challenge: A Two-Front War on Friction
-The Java Management Service (JMS) manages massive infrastructure, but setup required complex actions across two distinct environments: the OCI Cloud Console and the individual Host Machines.
+Fleet Management in Java Management Service (JMS) is designed to monitor and manage massive scales of infrastructure, but setup required complex actions across two distinct environments: the OCI Cloud Console and the individual host machines.
 
 ### The Problem
 Our data showed users dropping off at two specific bottlenecks:
