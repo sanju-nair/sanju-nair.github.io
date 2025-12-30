@@ -19,10 +19,10 @@ Most recently at **Oracle**, I led product strategy for the **Java Management Se
 ## Featured Case Studies
 
 ### 📌 [Java Download Service - Modernizing Oracle Java Distribution](./java-download-service.html)
-**Target:** Developers & DevOps | **Role:** Principal PM | **Impact:** 🚀 100k+ Downloads
+**Target:** Developers & DevOps | **Role:** Product Manager | **Impact:** 🚀 100k+ Downloads
 
 **The Challenge:**
-To accelerate adoption, I steered the product strategy to target **Developers**, recognizing they represented a far larger user base than our traditional System Administrator persona. I evaluated high-friction areas—including **Migration** and **Performance Analysis**—but identified **Secure Oracle Java Downloads** as the most critical and fastest-to-market opportunity. The key challenge was friction: Oracle Java downloads required manual license acceptance, rendering them unusable for modern CI/CD automation.
+To accelerate adoption of Java Management Service, I steered the product strategy to target **Developers**, recognizing they represented a far larger user base than our traditional System Administrator persona. I evaluated high-friction areas—including **Migration** and **Performance Analysis**—but identified **Secure Oracle Java Downloads** as the most critical and fastest-to-market opportunity. The key challenge was friction: Oracle Java downloads required manual license acceptance, rendering them unusable for modern CI/CD automation.
 
 **The Solution:**
 I differentiated the product by extending standard direct downloads with **script-friendly automation**. By applying "Systems Thinking," I championed reusing 70% of our **proven delivery infrastructure** to build a lightweight **token-based license system**. This enabled secure, automated Oracle Java downloads while cutting time-to-market in half.
@@ -36,13 +36,13 @@ I differentiated the product by extending standard direct downloads with **scrip
 ---
 
 ### 📌 [Optimizing Time-to-Value for Enterprise Fleets](./fleet-management-onboarding.html)
-**Target:** System Admins (Ops) | **Role:** Principal PM | **Impact:** 📉 -70% Support Tickets
+**Target:** System Administrators | **Role:** Product Manager | **Impact:** 📉 -70% Support Tickets
 
 **The Challenge:**
-The Java Management Service (JMS) manages massive estates (300k+ instances), but the initial setup was a major churn point. Enterprise admins struggled with complex agent configuration, leading to high failure rates.
+The initial setup of Fleet Management in Java Management Service was a major churn point. Enterprise admins struggled with complex agent configuration, leading to high failure rates.
 
 **The Solution:**
-I shifted the strategy from "Documentation-Reliant" to "Self-Serve Activation." I led the development of a **smart agent installer** with pre-packaged dependencies and automated diagnostics, coupled with a redesigned **guided onboarding flow**.
+I shifted the strategy from "Documentation-Reliant" to "Self-Serve Activation." I delivered an **onboarding wizard** that automates the creation of prerequisite OCI resources, coupled with a **unified agent installer** that merges multi-step configurations into a single workflow with built-in diagnostics.
 
 **The Results:**
 * ✅ **80% reduction** in total setup time.
@@ -54,7 +54,7 @@ I shifted the strategy from "Documentation-Reliant" to "Self-Serve Activation." 
 ---
 
 ### 📌 [Scaling via PLG: The Freemium Pivot](./jms-freemium.html)
-**Target:** Java Developers | **Role:** Principal PM | **Impact:** 🚀 150% User Growth
+**Target:** Java Developers | **Role:** Product Manager | **Impact:** 🚀 150% User Growth
 
 **The Challenge:**
 Adoption of the Java Management Service was stifled by a high barrier to entry. Users were hesitant to commit to paid tiers without experiencing value first, leading to stagnant activation rates.
@@ -71,7 +71,7 @@ I executed a **Product-Led Growth (PLG)** strategy by launching a **Freemium Tie
 ---
 
 ### 📌 [SupaNEWS: Zero-to-One Product Development](./supanews.html)
-**Role:** Founder & Full-Stack Developer | **Tech:** Flutter, Supabase, AI
+**Role:** Technical Product Manager & Full-Stack Developer | **Tech:** Flutter, Supabase, AI
 
 **The Challenge:**
 News consumption is fragmented and cluttered. I wanted to build a mobile-first experience that aggregated Australian news sources while removing clickbait and bias through AI.
@@ -88,7 +88,7 @@ I built **SupaNEWS**, a cross-platform mobile app (iOS/Android). I architected a
 ---
 
 ### 📌 [Monetizing Messy Data: The $1M ARR Launch](./fuzzy-matching.html)
-**Role:** Senior PM @ Oracle Data Cloud | **Impact:** 💰 $1M+ ARR
+**Role:** Technical Product Manager | **Impact:** 💰 $1M+ ARR
 
 **The Challenge:**
 Oracle Data Cloud struggled to serve the SMB market because SMB data records are notoriously messy. "Exact match" algorithms failed to link client data to our enrichment database, leaving a massive market segment unaddressed.
