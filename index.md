@@ -52,15 +52,14 @@ I shifted the strategy from "Documentation-Reliant" to "Self-Serve Activation." 
 [👉 **Read the Full Case Study**](./fleet-management-onboarding.html)
 
 ---
-
 ### 📌 [Scaling via PLG: The Freemium Pivot](./jms-freemium.html)
 **Target:** Java Developers | **Role:** Product Manager | **Impact:** 🚀 150% User Growth
 
 **The Challenge:**
-Adoption of the Java Management Service was stifled by a high barrier to entry. Users were hesitant to commit to paid tiers without experiencing value first, leading to stagnant activation rates.
+Initially, JMS Fleet Management was exclusive to **Java SE Subscription** customers. This "Paywall-First" model stifled adoption, as potential users couldn't test the utility without a commercial contract.
 
 **The Solution:**
-I executed a **Product-Led Growth (PLG)** strategy by launching a **Freemium Tier**. We redesigned the user journey to offer immediate value for free, using **in-product nudges** to guide users toward advanced, paid features as their usage scaled.
+I executed a **Product-Led Growth (PLG)** pivot by unbundling the feature set. We made **basic monitoring free for all users** to drive bottom-up adoption, while gating **advanced capabilities** behind the subscription, using in-product nudges to convert free users to paid.
 
 **The Results:**
 * ✅ **150% growth** in user base within 6 months.
