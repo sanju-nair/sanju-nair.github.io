@@ -17,8 +17,8 @@ The Java Management Service (JMS) manages massive infrastructure, but setup requ
 
 ### The Problem
 Our data showed users dropping off at two specific bottlenecks:
-* **1. Cloud-Side Friction (The Admin Gap):** Before using the service, admins had to manually create OCI Dynamic Groups and Policies. This was a confusing, multi-step process in the console that required deep knowledge of Oracle Identity and Access Management (IAM).
-* **2. Host-Side Friction (The Agent Gap):** Installing the agent on target hosts was disjointed. Users had to manually run installers, edit text configuration files, and separately enable the "Java Usage Tracker"—a process prone to human error.
+* **Cloud-Side Friction (The Admin Gap):** Before using the service, admins had to manually create OCI Dynamic Groups and Policies. This was a confusing, multi-step process in the console that required deep knowledge of Oracle Identity and Access Management (IAM).
+* **Host-Side Friction (The Agent Gap):** Installing the agent on target hosts was disjointed. Users had to manually run installers, edit text configuration files, and separately enable the "Java Usage Tracker"—a process prone to human error.
 * **The Diagnostic Gap:** Users frequently requested "Troubleshooting FAQs" to handle common installation errors, leading to a high volume of reactive Level 1 support tickets.
 
 ## Discovery & Strategy
