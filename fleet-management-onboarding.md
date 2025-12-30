@@ -36,19 +36,14 @@ I led a two-pronged solution to automate the complexity and guide the user.
 ### A. The "Smart" Agent Installer
 I defined requirements for a new, intelligent installer binary that removed manual guesswork:
 * **Pre-Packaged Dependencies:** Bundled necessary libraries so users didn't have to hunt for them.
-* **Automated Diagnostics:** Built a pre-flight check system that runs *before* installation. It validates network connectivity, permissions, and OS compatibility, providing clear, actionable error messages (e.g., "Port 443 blocked") instead of generic failures.
+* **Automated Diagnostics:** Built a pre-flight check system that runs *before* installation. It validates network connectivity, permissions, and OS compatibility, providing clear, actionable error messages instead of generic failures.
 
 ### B. The Guided Onboarding Flow
 We redesigned the Console UX to move users away from static docs:
 * **Self-Serve Wizard:** Created a step-by-step UI flow that walked users through creating dynamic groups and policies, automating the most confusing parts of OCI identity management.
 * **In-Context Nudges:** Added tooltips and validation in the UI to prevent invalid configurations before the "Submit" button was even clicked.
 
-## 4. Execution & Delivery
-* **Cross-Functional Leadership:** Collaborated with the Agent Engineering team to prioritize diagnostic capabilities over new feature development, arguing that "retention begins at installation."
-* **Design Iteration:** worked with UX designers to simplify the permission mapping interface, reducing a 10-step manual process into a 3-click wizard.
-* **Validation:** Rolled out the new flow to a beta cohort, measuring "Time-to-Connection" and error rates to validate the improvements before general availability.
-
-## 5. The Impact
+## 4. The Impact
 The improvements dramatically smoothed the path for customer adoption, turning a support burden into a growth engine.
 
 * 🚀 **Accelerated Activation:** Reduced total setup time by **80%**, allowing customers to see value in minutes instead of days.
