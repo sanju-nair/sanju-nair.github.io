@@ -32,17 +32,19 @@ I analyzed the support tickets and user behavior, realizing that better document
  
 ### The Strategic Pivot: Fix vs. Build
 There was significant pressure from executive leadership to prioritize **new feature delivery** to compete in the market. However, I argued that adding features to a "leaky bucket" was inefficient.
-* **The Argument:** I presented data showing that **70% of support tickets** were installation-related. I demonstrated that "Time-to-Value" was the primary churn driver, not feature gaps.
-* **The Decision:** I successfully influenced leadership to pause the feature roadmap for one quarter, reallocating engineering resources to solve the onboarding debt first.
 
-### The approach
+I framed the internal debate as **Acquisition via Features vs. Growth via Activation**.
+
+* **The Counter-Argument:** I argued that aggressive acquisition efforts were futile due to a "Leaky Bucket" problem. I presented data showing that while we were attracting interest, we were losing potential users at "Day 0" due to setup friction.
+* **The Decision:** I successfully influenced leadership to pause the feature roadmap for one quarter. I proved that **fixing activation** (stopping the leak) would yield higher net-user growth than adding new capabilities.
+
+### The Approach
 With resources secured, we pivoted from a "Documentation-First" approach to "Automated Activation":
 * **Cloud Side:** Automate the IAM resource creation.
 * **Host Side:** Unify the disparate installation steps.
 * **Support:** Replace the "FAQ" request with an embedded diagnostic tool.
 
-## The Solution: End-to-End Automation
-I led the delivery of a cohesive onboarding suite that addressed both environments.
+## The Solution: Cohesive Onboarding Suite
 
 ### A. The Onboarding Wizard (Cloud Automation)
 I designed a "One-Click" Wizard in the OCI Console to handle prerequisites.
