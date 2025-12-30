@@ -5,7 +5,7 @@ title: Optimizing Time-to-Value for Enterprise Fleets
 
 [← Back to Home](./)
 
-# 📌 Case Study: Optimizing Time-to-Value for Enterprise Fleets
+# 📌 Optimizing Time-to-Value for Enterprise Fleets
 
 **Role:** Principal Product Manager @ Oracle
 **Competencies:** Product-Led Growth (PLG), UX Redesign, Technical Diagnostics, Telemetry Analysis
