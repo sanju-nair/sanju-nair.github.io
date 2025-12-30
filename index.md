@@ -39,10 +39,10 @@ I differentiated the product by extending standard direct downloads with **scrip
 **Target:** System Admins (Ops) | **Role:** Principal PM | **Impact:** 📉 -70% Support Tickets
 
 **The Challenge:**
-The Java Management Service (JMS) manages massive estates (300k+ instances), but the initial setup was a major churn point. Enterprise admins struggled with complex agent configuration, leading to high failure rates and a flood of support tickets. We needed to reduce "Time-to-First-Value" to unlock adoption.
+The Java Management Service (JMS) manages massive estates (300k+ instances), but the initial setup was a major churn point. Enterprise admins struggled with complex agent configuration, leading to high failure rates.
 
 **The Solution:**
-I shifted the strategy from "Documentation-Reliant" to "Self-Serve Activation." I led the development of a **smart agent installer** with pre-packaged dependencies and built-in diagnostics, coupled with a redesigned **guided onboarding flow**. This proactively caught errors before they reached Support.
+I shifted the strategy from "Documentation-Reliant" to "Self-Serve Activation." I led the development of a **smart agent installer** with pre-packaged dependencies and automated diagnostics, coupled with a redesigned **guided onboarding flow**.
 
 **The Results:**
 * ✅ **80% reduction** in total setup time.
@@ -53,36 +53,54 @@ I shifted the strategy from "Documentation-Reliant" to "Self-Serve Activation." 
 
 ---
 
-### 📌 Project 3: $1M ARR from Scratch (Zero-to-One)
-**Role:** Senior Product Manager @ Oracle Data Cloud
+### 📌 [Scaling via PLG: The Freemium Pivot](./jms-freemium.html)
+**Target:** Java Developers | **Role:** Principal PM | **Impact:** 🚀 150% User Growth
+
 **The Challenge:**
-The SMB market was underserved by our enterprise data solutions. We identified an opportunity to monetize a data enrichment product specifically for small-to-mid-sized businesses who needed cleaner data for their CRMs.
+Adoption of the Java Management Service was stifled by a high barrier to entry. Users were hesitant to commit to paid tiers without experiencing value first, leading to stagnant activation rates.
 
 **The Solution:**
-* **Product:** I led the development of a **fuzzy matching solution** that allowed SMBs to enrich sales leads with firmographic data on a self-serve basis.
-* **Technical Implementation:** I evaluated algorithms (Cosine Similarity vs. Levenshtein’s Distance) to define the matching logic that would balance accuracy with processing cost.
-* **Operations:** Streamlined data refresh cycles across 8 partners, achieving a 30% faster refresh rate.
+I executed a **Product-Led Growth (PLG)** strategy by launching a **Freemium Tier**. We redesigned the user journey to offer immediate value for free, using **in-product nudges** to guide users toward advanced, paid features as their usage scaled.
 
-**The Impact:**
-* 💰 Generated **$1M+ in Annual Recurring Revenue (ARR)** in the first year.
-* 📊 Validated the self-serve model for data products, opening a new revenue stream for the division.
+**The Results:**
+* ✅ **150% growth** in user base within 6 months.
+* ✅ Validated the "Try before you buy" model for enterprise tools.
+
+[👉 **Read the Full Case Study**](./jms-freemium.html)
 
 ---
 
-### 📌 Project 4: SupaNEWS (Indie Mobile Product)
-**Role:** Founder & Technical PM (Independent Project)
-**The Context:**
-To maintain my technical edge and explore the mobile ecosystem, I architected and built a cross-platform news aggregation app, currently released for Australia with plans for India and USA expansion.
+### 📌 [SupaNEWS: Zero-to-One Product Development](./supanews.html)
+**Role:** Founder & Full-Stack Developer | **Tech:** Flutter, Supabase, AI
 
-**The Stack & Strategy:**
-* **Tech Stack:** Built with **Flutter** (Front-end) and **Supabase** (PostgreSQL & Edge Functions) for a scalable, serverless backend.
-* **AI Integration:** Leveraged LLMs (Claude, Gemini) to accelerate the SDLC by 3x, functioning as a "one-person engineering team".
-* **Features:** Implemented "Reader Mode," real-time social sharing, and robust RSS ingestion pipelines.
+**The Challenge:**
+News consumption is fragmented and cluttered. I wanted to build a mobile-first experience that aggregated Australian news sources while removing clickbait and bias through AI.
+
+**The Solution:**
+I built **SupaNEWS**, a cross-platform mobile app (iOS/Android). I architected a serverless backend using **Supabase** for real-time data and integrated **Generative AI** to summarize articles and analyze sentiment.
 
 **The Outcome:**
-* 📱 Successfully launched on **Google Play Store** (Package: `com.sanjunair.supanewsau`).
-* 🔄 Managed end-to-end App Store Optimization (ASO) and internal testing tracks.
+* 🚀 Successfully launched on the Google Play Store.
+* 📱 Demonstrated full-stack mastery: Mobile (Flutter), Backend (PostgreSQL/Edge Functions), and AI Integration.
 
+[👉 **Read the Full Case Study**](./supanews.html)
+
+---
+
+### 📌 [Monetizing Messy Data: The $1M ARR Launch](./fuzzy-matching.html)
+**Role:** Senior PM @ Oracle Data Cloud | **Impact:** 💰 $1M+ ARR
+
+**The Challenge:**
+Oracle Data Cloud struggled to serve the SMB market because SMB data records are notoriously messy. "Exact match" algorithms failed to link client data to our enrichment database, leaving a massive market segment unaddressed.
+
+**The Solution:**
+I led the full product lifecycle for a new **Fuzzy Matching** engine. We moved from strict determinism to **probabilistic matching**, allowing us to link and enrich imperfect data records with high confidence.
+
+**The Results:**
+* ✅ **$1M+ in Annual Recurring Revenue (ARR)** generated post-launch.
+* ✅ **30% improvement** in data refresh cycles across partners.
+
+[👉 **Read the Full Case Study**](./fuzzy-matching.html)
 ---
 
 ## My Product Philosophy
