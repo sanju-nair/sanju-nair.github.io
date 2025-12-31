@@ -87,13 +87,13 @@ I built **SupaNEWS**, a cross-platform mobile app that aggregates RSS feeds from
 ---
 
 ### 📌 [Monetizing Messy Data: The $1M ARR Launch](./fuzzy-matching.html)
-**Role:** Technical Product Manager | **Impact:** 💰 $1M+ ARR
+**Role:** Senior PM @ Oracle Data Cloud | **Impact:** 💰 $1M+ ARR
 
 **The Challenge:**
-Oracle Data Cloud could not monetize the SMB market because the data was notoriously messy. Existing "Exact Match" algorithms failed to link client records to the enrichment database, leaving millions in potential revenue on the table.
+The existing matching engine relied on **company domains**, which worked for large enterprises but failed for SMBs that often lacked websites. We had to rely on **company names**, but as a data aggregator, we faced inconsistent naming conventions that broke exact-match logic.
 
 **The Solution:**
-I led the development of a **Probabilistic Matching Engine** to replace strict deterministic logic. I evaluated algorithms like **Levenshtein Distance** versus Cosine Similarity to build a system that links imperfect records based on confidence scores.
+I led the pivot to a **Probabilistic Matching Engine**. I evaluated algorithms (Levenshtein Distance vs. Cosine Similarity) to optimize for name variations and designed **wireframes for a new UI workflow**, ensuring the engineering implementation aligned with the user need for confidence-based review.
 
 **The Results:**
 * ✅ **$1M+ in Annual Recurring Revenue (ARR)** generated post-launch.
@@ -101,7 +101,6 @@ I led the development of a **Probabilistic Matching Engine** to replace strict d
 * ✅ **30% improvement** in data refresh cycles across partners.
 
 [👉 **Read the Full Case Study**](./fuzzy-matching.html)
-
 ---
 
 ## My Product Philosophy
