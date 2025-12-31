@@ -70,17 +70,17 @@ I executed a **Product-Led Growth (PLG)** pivot by unbundling the feature set. W
 ---
 
 ### 📌 [SupaNEWS: Zero-to-One Product Development](./supanews.html)
-**Role:** Technical Product Manager & Full-Stack Developer | **Tech:** Flutter, Supabase, AI
+**Role:** Founder & Technical Product Manager | **Tech:** Flutter, Supabase, AI-Assisted Engineering
 
 **The Challenge:**
-News consumption is fragmented and cluttered. I wanted to build a mobile-first experience that aggregated Australian news sources while removing clickbait and bias through AI.
+Australian news consumption is fragmented across dozens of publisher apps, most of which are plagued by intrusive ads. I wanted to build a single, unified interface for breaking news.
 
 **The Solution:**
-I built **SupaNEWS**, a cross-platform mobile app (iOS/Android). I architected a serverless backend using **Supabase** for real-time data and integrated **Generative AI** to summarize articles and analyze sentiment.
+I built **SupaNEWS**, a cross-platform mobile app that aggregates RSS feeds from top Australian providers. I architected a **serverless backend** using Supabase and leveraged **AI-Assisted Coding** (Claude, ChatGPT, Gemini) to accelerate the development lifecycle from concept to production.
 
 **The Outcome:**
 * 🚀 Successfully launched on the Google Play Store.
-* 📱 Demonstrated full-stack mastery: Mobile (Flutter), Backend (PostgreSQL/Edge Functions), and AI Integration.
+* ⚡ **Rapid Prototyping:** Used LLMs as "pair programmers" to build a production-grade app in a fraction of the standard development time.
 
 [👉 **Read the Full Case Study**](./supanews.html)
 
@@ -90,16 +90,18 @@ I built **SupaNEWS**, a cross-platform mobile app (iOS/Android). I architected a
 **Role:** Technical Product Manager | **Impact:** 💰 $1M+ ARR
 
 **The Challenge:**
-Oracle Data Cloud struggled to serve the SMB market because SMB data records are notoriously messy. "Exact match" algorithms failed to link client data to our enrichment database, leaving a massive market segment unaddressed.
+Oracle Data Cloud could not monetize the SMB market because the data was notoriously messy. Existing "Exact Match" algorithms failed to link client records to the enrichment database, leaving millions in potential revenue on the table.
 
 **The Solution:**
-I led the full product lifecycle for a new **Fuzzy Matching** engine. We moved from strict determinism to **probabilistic matching**, allowing us to link and enrich imperfect data records with high confidence.
+I led the development of a **Probabilistic Matching Engine** to replace strict deterministic logic. I evaluated algorithms like **Levenshtein Distance** versus Cosine Similarity to build a system that links imperfect records based on confidence scores.
 
 **The Results:**
 * ✅ **$1M+ in Annual Recurring Revenue (ARR)** generated post-launch.
+* ✅ **Unlocked the SMB market** segment for the sales team.
 * ✅ **30% improvement** in data refresh cycles across partners.
 
 [👉 **Read the Full Case Study**](./fuzzy-matching.html)
+
 ---
 
 ## My Product Philosophy
