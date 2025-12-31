@@ -5,7 +5,7 @@ title: SupaNEWS - Zero-to-One Product Development
 
 [← Back to Home](./)
 
-# 📌 Case Study: SupaNEWS - Zero-to-One Product Development
+# 📌 SupaNEWS - Zero-to-One Product Development
 
 **Role:** Founder & Technical Product Manager
 **Tech Stack:** Flutter, Supabase, PostgreSQL, Edge Functions
