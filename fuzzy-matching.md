@@ -5,7 +5,7 @@ title: Monetizing Messy Data - The $1M ARR Launch
 
 [← Back to Home](./)
 
-# 📌 Case Study: Monetizing Messy Data - The $1M ARR Launch
+# 📌 Monetizing Messy Data - The $1M ARR Launch
 
 **Role:** Senior Product Manager @ Oracle Data Cloud
 **Competencies:** Data Products, Algorithm Strategy, Revenue Growth, Vendor Management
