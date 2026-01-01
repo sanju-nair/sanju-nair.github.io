@@ -100,6 +100,7 @@ I led the pivot to a **Probabilistic Matching Engine**. I evaluated algorithms (
 * ✅ **Unlocked the SMB market** segment for the sales team.
 
 [👉 **Read the Full Case Study**](./fuzzy-matching.html)
+
 ---
 
 ## My Product Philosophy
