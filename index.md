@@ -3,9 +3,9 @@ layout: default
 ---
 
 ## About Me
-**Technical Product Manager | Engineer Turned Strategist**
+**Product Manager | Engineer Turned Strategist**
 
-I am a Technical Product Manager with over 10 years of experience bridging the gap between complex architecture and strategic business goals. My background as a software engineer allows me to "speak the language" of technical teams while driving commercial outcomes.
+I am a  Product Manager with over 10 years of experience bridging the gap between complex architecture and strategic business goals. My background as a software engineer allows me to "speak the language" of technical teams while driving commercial outcomes.
 
 Most recently at **Oracle**, I led product strategy for the **Java Management Service (JMS)**, scaling the Fleet Management service to **manage 300,000+** compute instances while delivering a Download Service that secured **100,000+** automated downloads. I specialize in **'Iterative Value Delivery'**—avoiding big-bang releases in favor of launching thin, end-to-end slices to validate product-market fit early.
 
@@ -53,7 +53,7 @@ I shifted the strategy from "Documentation-Reliant" to "Self-Serve Activation." 
 
 ---
 ### 📌 [Scaling via PLG: The Freemium Pivot](./jms-freemium.html)
-**Target:** Java Developers | **Role:** Product Manager | **Impact:** 🚀 150% User Growth
+**Role:** Product Manager | **Impact:** 🚀 150% User Growth
 
 **The Challenge:**
 Initially, JMS Fleet Management was exclusive to **Java SE Subscription** customers. This "Paywall-First" model stifled adoption, as potential users couldn't test the utility without a commercial contract.
@@ -87,7 +87,7 @@ I built **SupaNEWS**, a cross-platform mobile app that aggregates RSS feeds from
 ---
 
 ### 📌 [Monetizing Messy Data: The $1M ARR Launch](./fuzzy-matching.html)
-**Role:** Senior PM @ Oracle Data Cloud | **Impact:** 💰 $1M+ ARR
+**Role:** Technical Product Manager @ Oracle Data Cloud | **Impact:** 💰 $1M+ ARR
 
 **The Challenge:**
 The existing matching engine relied on **company domains**, which worked for large enterprises but failed for SMBs that often lacked websites. We had to rely on **company names**, but as a data aggregator, we faced inconsistent naming conventions that broke exact-match logic.
@@ -104,7 +104,7 @@ I led the pivot to a **Probabilistic Matching Engine**. I evaluated algorithms (
 ---
 
 ### 📌 [Operational Excellence: Scaling Data Quality](./data-monitoring.html)
-**Role:** Senior PM @ Oracle Data Cloud | **Impact:** 📉 50% Drop in Support Tickets
+**Role:** Technical Product Manager @ Oracle Data Cloud | **Impact:** 📉 50% Drop in Support Tickets
 
 **The Challenge:**
 Our data pipeline faced a critical **"Silent Expiration"** issue. Data from external partners had strict validity windows, and delays in the refresh cycle meant data often "expired" and vanished from the product before a new update could replace it, causing sudden availability drops.
