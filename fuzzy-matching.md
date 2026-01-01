@@ -38,10 +38,6 @@ Introducing "uncertainty" into the data required a new user interface.
 * **Wireframing:** I created wireframes for a new **"Match Review" workflow**. Since the system was no longer 100% deterministic, the UI needed to expose the **Confidence Score** to the user and allow for manual overrides on edge cases.
 * **Implementation Alignment:** I worked closely with the frontend engineering team to ensure the final implementation matched my wireframes, ensuring the complexity of the algorithm was abstracted away behind a simple, intuitive review screen.
 
-### Operational Scale
-* **Pipeline Integration:** I orchestrated the integration of this logic into the ingestion pipeline, enabling the system to process millions of records from **8 different data partners**.
-* **Efficiency:** I streamlined the data refresh cycle, achieving a **30% reduction in processing time**. This allowed the product to deliver fresher data to clients faster than competitors.
-
 ## The Impact
 My launch of the Fuzzy Matching capability transformed the organization's ability to monetize the SMB segment.
 
