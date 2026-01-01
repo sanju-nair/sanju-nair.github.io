@@ -47,7 +47,6 @@ My launch of the Fuzzy Matching capability transformed the organization's abilit
 
 * 💰 **Revenue Growth:** Generated **over $1M+ in Annual Recurring Revenue (ARR)** directly attributed to the new SMB product line.
 * 🔓 **Market Expansion:** Successfully unlocked the SMB market, allowing the sales team to target a segment that had previously been "unserviceable" due to missing domains.
-* ⚡ **Operational Excellence:** The 30% speed improvement in data refreshes became a key competitive differentiator in the Service Level Agreements (SLAs).
 
 ---
 [← Back to Home](./)
