@@ -104,18 +104,18 @@ I led the pivot to a **Probabilistic Matching Engine**. I evaluated algorithms (
 ---
 
 ### 📌 [Operational Excellence: Scaling Data Quality](./data-monitoring.html)
-**Role:** Technical Product Manager | **Impact:** 📉 50% Drop in Support Tickets
+**Role:** Senior PM @ Oracle Data Cloud | **Impact:** 📉 50% Drop in Support Tickets
 
 **The Challenge:**
-Our data ingestion pipeline from **8 external partners** was a "black box." We frequently discovered **data drop-offs** (sudden dips in record counts) only *after* customers reported issues, leading to stalled refresh cycles and SLA breaches.
+Our data pipeline faced a critical **"Silent Expiration"** issue. Data from external partners had strict validity windows, and delays in the refresh cycle meant data often "expired" and vanished from the product before a new update could replace it, causing sudden availability drops.
 
 **The Solution:**
-I moved the team from reactive debugging to **proactive monitoring**. I built automated **Qubole & Tableau dashboards** to detect volume anomalies and missing attributes at the source, preventing bad data from entering the pipeline.
+I shifted operations from reactive fire-fighting to **proactive monitoring**. I built **Qubole & Tableau dashboards** to track data freshness and "Time-to-Expiry," alerting the team to stale data risks *before* they impacted the customer.
 
 **The Results:**
 * ✅ **30% reduction** in data refresh processing time.
 * ✅ **50% drop** in data-related support tickets.
-* ✅ Transformed vendor management with data-backed accountability.
+* ✅ Eliminated silent data expiration events.
 
 [👉 **Read the Full Case Study**](./data-monitoring.html)
 
