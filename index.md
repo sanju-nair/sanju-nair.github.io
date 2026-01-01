@@ -98,7 +98,6 @@ I led the pivot to a **Probabilistic Matching Engine**. I evaluated algorithms (
 **The Results:**
 * ✅ **$1M+ in Annual Recurring Revenue (ARR)** generated post-launch.
 * ✅ **Unlocked the SMB market** segment for the sales team.
-* ✅ **30% improvement** in data refresh cycles across partners.
 
 [👉 **Read the Full Case Study**](./fuzzy-matching.html)
 ---
