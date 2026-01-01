@@ -103,6 +103,24 @@ I led the pivot to a **Probabilistic Matching Engine**. I evaluated algorithms (
 
 ---
 
+### 📌 [Operational Excellence: Scaling Data Quality](./data-monitoring.html)
+**Role:** Technical Product Manager | **Impact:** 📉 50% Drop in Support Tickets
+
+**The Challenge:**
+Our data ingestion pipeline from **8 external partners** was a "black box." We frequently discovered **data drop-offs** (sudden dips in record counts) only *after* customers reported issues, leading to stalled refresh cycles and SLA breaches.
+
+**The Solution:**
+I moved the team from reactive debugging to **proactive monitoring**. I built automated **Qubole & Tableau dashboards** to detect volume anomalies and missing attributes at the source, preventing bad data from entering the pipeline.
+
+**The Results:**
+* ✅ **30% reduction** in data refresh processing time.
+* ✅ **50% drop** in data-related support tickets.
+* ✅ Transformed vendor management with data-backed accountability.
+
+[👉 **Read the Full Case Study**](./data-monitoring.html)
+
+---
+
 ## My Product Philosophy
 My approach to product management is grounded in three pillars:
 
