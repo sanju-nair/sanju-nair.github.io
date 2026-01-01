@@ -5,7 +5,7 @@ title: Operational Excellence - Scaling Data Quality Monitoring
 
 [← Back to Home](./)
 
-# 📌 Case Study: Operational Excellence - Scaling Data Quality Monitoring
+# 📌 Operational Excellence - Scaling Data Quality Monitoring
 
 **Role:** Senior Product Manager @ Oracle Data Cloud
 **Competencies:** Data Analytics, Operational Strategy, SQL, Vendor Management
